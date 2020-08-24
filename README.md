@@ -23,7 +23,6 @@
 ### 
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
-
  #challenger #learner #goal:open source contributer #Martial Arts lover
 
 <br />
