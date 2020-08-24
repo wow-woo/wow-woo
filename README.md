@@ -30,6 +30,8 @@
 <br />
 <br />
 
+---
+
 
 <details>
  <summary>:zap: Coding Productivity Analysis</summary>
@@ -110,7 +112,6 @@ CSS                      4 repos             ██░░░░░░░░░�
 </details>
 
 
----
 
 
 <details>
