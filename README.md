@@ -16,11 +16,6 @@
 <br />
 <br />
 
----
-
-
-### Hi there, I'm WOW-WOO 👋
-
 
 ##  Front End Developer
 
