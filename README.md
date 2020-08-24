@@ -104,9 +104,9 @@ CSS                      4 repos             ██░░░░░░░░░�
 ![Chart not found](https://github.com/wow-woo/wow-woo/blob/master/charts/bar_graph.png) 
 
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 <!--END_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ---
 
