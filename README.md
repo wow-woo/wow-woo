@@ -36,7 +36,9 @@
 
 ![.github/workflows/Waka_Readme.yml](https://github.com/wow-woo/wow-woo/workflows/.github/workflows/Waka_Readme.yml/badge.svg)
 
+<details>
 <!--START_SECTION:waka-->
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My Github Data** 
@@ -107,6 +109,8 @@ CSS                      4 repos             ██░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+</details>
+
 
 ---
 
