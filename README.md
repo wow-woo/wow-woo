@@ -1,20 +1,4 @@
-### Hi there, I'm WOW-WOO 👋
-
-
-##  Front End Developer
-
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love Martial Arts
-
-### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
-
-<br />
-
 ### 
-
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -34,12 +18,32 @@
 
 ---
 
+
+### Hi there, I'm WOW-WOO 👋
+
+
+##  Front End Developer
+
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2020 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love Martial Arts
+
+### Spotify Playing 🎧
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+
+<br />
+
+
 <details>
  <summary>:zap: Coding Productivity Analysis</summary>
  
- 
+ <br />
  
 <!--START_SECTION:waka-->
+
+
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My Github Data** 
@@ -57,22 +61,22 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    53 commits     █████░░░░░░░░░░░░░░░░░░░░   21.2% 
-🌆 Daytime    88 commits     ████████░░░░░░░░░░░░░░░░░   35.2% 
-🌃 Evening    81 commits     ████████░░░░░░░░░░░░░░░░░   32.4% 
-🌙 Night      28 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.2%
+🌞 Morning    53 commits     █████░░░░░░░░░░░░░░░░░░░░   21.63% 
+🌆 Daytime    83 commits     ████████░░░░░░░░░░░░░░░░░   33.88% 
+🌃 Evening    81 commits     ████████░░░░░░░░░░░░░░░░░   33.06% 
+🌙 Night      28 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.43%
 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday       63 commits     ██████░░░░░░░░░░░░░░░░░░░   25.2% 
-Tuesday      53 commits     █████░░░░░░░░░░░░░░░░░░░░   21.2% 
-Wednesday    25 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
-Thursday     28 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.2% 
-Friday       42 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.8% 
-Saturday     20 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.0% 
-Sunday       19 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.6%
+Monday       58 commits     ██████░░░░░░░░░░░░░░░░░░░   23.67% 
+Tuesday      53 commits     █████░░░░░░░░░░░░░░░░░░░░   21.63% 
+Wednesday    25 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.2% 
+Thursday     28 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.43% 
+Friday       42 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.14% 
+Saturday     20 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.16% 
+Sunday       19 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.76%
 
 ```
 
