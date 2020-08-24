@@ -36,7 +36,8 @@
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-          
+
+![.github/workflows/Waka_Readme.yml](https://github.com/wow-woo/wow-woo/workflows/.github/workflows/Waka_Readme.yml/badge.svg)
 ---
 
 
