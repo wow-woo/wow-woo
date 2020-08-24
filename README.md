@@ -37,51 +37,52 @@
 ![.github/workflows/Waka_Readme.yml](https://github.com/wow-woo/wow-woo/workflows/.github/workflows/Waka_Readme.yml/badge.svg)
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 280 Contributions in the year 2020
+> 🏆 280 Contributions in the Year 2020
  > 
 > 📦 72.1 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 55 Public repositories
+> 📜 55 Public Repositories
  > 
-> 🔑 0 Private repository 
+> 🔑 0 Private Repository 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    50 commits     █████░░░░░░░░░░░░░░░░░░░░   20.66% 
-🌆 Daytime    83 commits     ████████░░░░░░░░░░░░░░░░░   34.3% 
-🌃 Evening    81 commits     ████████░░░░░░░░░░░░░░░░░   33.47% 
-🌙 Night      28 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.57%
+🌞 Morning    52 commits     █████░░░░░░░░░░░░░░░░░░░░   21.31% 
+🌆 Daytime    83 commits     ████████░░░░░░░░░░░░░░░░░   34.02% 
+🌃 Evening    81 commits     ████████░░░░░░░░░░░░░░░░░   33.2% 
+🌙 Night      28 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.48%
 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday       55 commits     █████░░░░░░░░░░░░░░░░░░░░   22.73% 
-Tuesday      53 commits     █████░░░░░░░░░░░░░░░░░░░░   21.9% 
-Wednesday    25 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.33% 
-Thursday     28 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.57% 
-Friday       42 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.36% 
-Saturday     20 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.26% 
-Sunday       19 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.85%
+Monday       57 commits     █████░░░░░░░░░░░░░░░░░░░░   23.36% 
+Tuesday      53 commits     █████░░░░░░░░░░░░░░░░░░░░   21.72% 
+Wednesday    25 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.25% 
+Thursday     28 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.48% 
+Friday       42 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.21% 
+Saturday     20 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.2% 
+Sunday       19 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.79%
 
 ```
 
 
-📊 **This Week I Spend My Time On** 
+📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time zone: Asia/Seoul
+⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
 No Activity Tracked This Week
 
-🔥 Code Editors: 
+🔥 Editors: 
 No Activity Tracked This Week
 
 💻 Operating System: 
@@ -102,7 +103,6 @@ CSS                      4 repos             ██░░░░░░░░░�
 **Timeline**
 
 ![Chart not found](https://github.com/wow-woo/wow-woo/blob/master/charts/bar_graph.png) 
-
 
 
 <!--END_SECTION:waka-->
