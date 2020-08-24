@@ -34,10 +34,8 @@
 
 ---
 
-![.github/workflows/Waka_Readme.yml](https://github.com/wow-woo/wow-woo/workflows/.github/workflows/Waka_Readme.yml/badge.svg)
-
 <details>
- <summary>:zap: CODING Analysis</summary>
+ <summary>:zap: Coding Productivity Analysis</summary>
  
 <!--START_SECTION:waka-->
 
