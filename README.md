@@ -29,7 +29,9 @@
  🥅 2020 Goals: Contribute more to Open Source projects
  ⚡ Fun fact: I love Martial Arts
 
-</br>
+<br />
+<br />
+<br />
 
 
 <details>
