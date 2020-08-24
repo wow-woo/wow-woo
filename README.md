@@ -35,12 +35,6 @@
 ---
 
 <details>
-  <summary>:zap: Recent Github Activity</summary>
-  
-
-</details>
-
-<details>
   <summary>:zap: Github Stats</summary>
 
   <img align="left" alt="wow-woo's Github Stats" src="https://github-readme-stats-delta-ten.vercel.app/api?username=wow-woo&show_icons=true&hide_border=true" />
